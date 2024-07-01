@@ -30,3 +30,5 @@ python manage.py runserver
 
 Web tarayıcınızı açarak http://127.0.0.1:8000/ adresine gidin.
 
+
+https://github.com/betulozmen/healthy-life/assets/116139634/5cef8f0c-66ad-4524-8d64-ae7f0cd40baf
